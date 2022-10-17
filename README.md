@@ -1,5 +1,5 @@
-# dubbo
-dubbo的简单应用(Helloword)
+# dubbo - Hello World
+dubbo的简单应用
 
 ## 案例需求：order在启动时根据用户ID查询用户信息
 ### common 为公共API模块 该模块下存放的是java bean ，及其他模块需要用到的service接口 工具类等
